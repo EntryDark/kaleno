@@ -10,7 +10,7 @@ function subDay(day, toSub) {
 
 /* day에서 date를 빼는 함수 */
 function subDate(day, toSub) {
-	var dayM = 86400552.963539 // 하루 = 86400552.963539 밀리초
+	var dayM = 86400000 // 하루 = 86400000 밀리초
 	return Math.round(Math.abs(day - toSub) / dayM); // day에서 date를 뺀 후(abs 함수) round 함수로 반올림
 }
 
