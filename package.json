@@ -1,0 +1,19 @@
+{
+  "name": "kaleno",
+  "version": "1.0.0",
+  "description": "Kaleno is a memo library. You can manage your schedule easily with this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WooyeongCho/kaleno.git"
+  },
+  "author": "Impress Flows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WooyeongCho/kaleno/issues"
+  },
+  "homepage": "https://github.com/WooyeongCho/kaleno#readme"
+}
